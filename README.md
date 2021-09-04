@@ -61,18 +61,26 @@ Post ![Scores_School_Spending - Challenge](https://user-images.githubusercontent
 
 
 * School Size
-* *
-* Pre
+    * Replacing the ninth-graders score had no impact worth noting on scores by school size, as highlighted in the images below:
+Pre
 ![Scores_School_Size - Initial](https://user-images.githubusercontent.com/85259984/132100644-6a4197f0-400d-4775-807a-5a6f93ed2db2.PNG)
-* Post
-![Scores_School_Size - Challenge](https://user-images.githubusercontent.com/85259984/132100648-04cf1ee0-1704-41c3-b145-7bf067a5d5fb.PNG)
+Post
+![Scores_School_Size - Challenge](https://user-images.githubusercontent.com/85259984/132101404-6004be69-3bf2-4544-8cf8-af5ed82f9fa6.PNG)
 
 * School Type
-* *
-* Pre
+    * Replacing the ninth-graders score had no impact worth noting on scores by school type, as highlighted in the images below:
+Pre
 ![Scores_School_Type - Initial](https://user-images.githubusercontent.com/85259984/132100662-efafd1df-71e4-4285-9315-057a8d6a7835.PNG)
-* Post
-![Scores_School_Type - Challenge](https://user-images.githubusercontent.com/85259984/132100666-4a476285-1afd-4e1a-b062-989cdc28afdb.PNG)
+Post
+![Scores_School_Type - Challenge](https://user-images.githubusercontent.com/85259984/132101401-deacf81c-712d-4e0a-9f6c-9ebb4d04bd94.PNG)
 
+# Summary
+Following replacing suspicious data for Thomas High School with null values, four things can be used as takeaways:
+* There are improved results for schools grouped as spending between $630 and $644
+* There are no notable changes for school size summary
+* There are no notable changes for school type summary
+* The only grade that saw impacted changes was 9th grade as that is the data that was impacted 
+
+Overall, the suspicious data had little impact on the results of the initial analysis and the school board can trust the quality of the data moving forward. 
 
 
